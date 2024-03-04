@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'curso-angular-youtube';
+  title = 'PEDRO';
+  subtitle = 'es la persona que esta logueada';
 }
